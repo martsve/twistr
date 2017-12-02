@@ -1,2 +1,2 @@
 # twistr
-Twist fordeling med Pareto optimalisering
+Twist-fordeling med Paretooptimalisering
