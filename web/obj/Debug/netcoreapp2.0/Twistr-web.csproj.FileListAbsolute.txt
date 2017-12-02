@@ -1,0 +1,12 @@
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr-web.deps.json
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr-web.runtimeconfig.json
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr-web.runtimeconfig.dev.json
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr-web.dll
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr-web.pdb
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr.dll
+d:\Workspace\Twistr\web\bin\Debug\netcoreapp2.0\Twistr.pdb
+d:\Workspace\Twistr\web\obj\Debug\netcoreapp2.0\Twistr-web.csproj.CoreCompileInputs.cache
+d:\Workspace\Twistr\web\obj\Debug\netcoreapp2.0\Twistr-web.AssemblyInfoInputs.cache
+d:\Workspace\Twistr\web\obj\Debug\netcoreapp2.0\Twistr-web.AssemblyInfo.cs
+d:\Workspace\Twistr\web\obj\Debug\netcoreapp2.0\Twistr-web.dll
+d:\Workspace\Twistr\web\obj\Debug\netcoreapp2.0\Twistr-web.pdb

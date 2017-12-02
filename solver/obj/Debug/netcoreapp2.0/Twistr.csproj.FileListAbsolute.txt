@@ -1,0 +1,50 @@
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\bin\Debug\netcoreapp2.0\Twistr.deps.json
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.json
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.dev.json
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\bin\Debug\netcoreapp2.0\Twistr.dll
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\bin\Debug\netcoreapp2.0\Twistr.pdb
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\obj\Debug\netcoreapp2.0\Twistr.csproj.CoreCompileInputs.cache
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfoInputs.cache
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfo.cs
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\obj\Debug\netcoreapp2.0\Twistr.dll
+D:\Profiles\masvends\OneDrive - Sopra Steria\Twistr\obj\Debug\netcoreapp2.0\Twistr.pdb
+d:\Temp\Twistr\bin\Debug\netcoreapp2.0\Twistr.deps.json
+d:\Temp\Twistr\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.json
+d:\Temp\Twistr\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.dev.json
+d:\Temp\Twistr\bin\Debug\netcoreapp2.0\Twistr.dll
+d:\Temp\Twistr\bin\Debug\netcoreapp2.0\Twistr.pdb
+d:\Temp\Twistr\obj\Debug\netcoreapp2.0\Twistr.csproj.CoreCompileInputs.cache
+d:\Temp\Twistr\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfoInputs.cache
+d:\Temp\Twistr\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfo.cs
+d:\Temp\Twistr\obj\Debug\netcoreapp2.0\Twistr.dll
+d:\Temp\Twistr\obj\Debug\netcoreapp2.0\Twistr.pdb
+c:\Users\Martin\Downloads\Twistr - 28.11\bin\Debug\netcoreapp2.0\Twistr.deps.json
+c:\Users\Martin\Downloads\Twistr - 28.11\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.json
+c:\Users\Martin\Downloads\Twistr - 28.11\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.dev.json
+c:\Users\Martin\Downloads\Twistr - 28.11\bin\Debug\netcoreapp2.0\Twistr.dll
+c:\Users\Martin\Downloads\Twistr - 28.11\bin\Debug\netcoreapp2.0\Twistr.pdb
+c:\Users\Martin\Downloads\Twistr - 28.11\obj\Debug\netcoreapp2.0\Twistr.csproj.CoreCompileInputs.cache
+c:\Users\Martin\Downloads\Twistr - 28.11\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfoInputs.cache
+c:\Users\Martin\Downloads\Twistr - 28.11\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfo.cs
+c:\Users\Martin\Downloads\Twistr - 28.11\obj\Debug\netcoreapp2.0\Twistr.dll
+c:\Users\Martin\Downloads\Twistr - 28.11\obj\Debug\netcoreapp2.0\Twistr.pdb
+d:\Dropbox\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.csproj.CoreCompileInputs.cache
+d:\Dropbox\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfoInputs.cache
+d:\Dropbox\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfo.cs
+d:\Dropbox\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.dll
+d:\Dropbox\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.pdb
+d:\Dropbox\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.deps.json
+d:\Dropbox\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.json
+d:\Dropbox\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.dev.json
+d:\Dropbox\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.dll
+d:\Dropbox\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.pdb
+d:\Workspace\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.deps.json
+d:\Workspace\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.json
+d:\Workspace\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.runtimeconfig.dev.json
+d:\Workspace\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.dll
+d:\Workspace\Twistr\solver\bin\Debug\netcoreapp2.0\Twistr.pdb
+d:\Workspace\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.csproj.CoreCompileInputs.cache
+d:\Workspace\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfoInputs.cache
+d:\Workspace\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.AssemblyInfo.cs
+d:\Workspace\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.dll
+d:\Workspace\Twistr\solver\obj\Debug\netcoreapp2.0\Twistr.pdb

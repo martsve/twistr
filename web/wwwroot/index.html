@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Twistr</title>
+        <link rel="stylesheet" href="style.css ">        
+    </head>
+    <body>
+        <div id='settings'>
+            Name <input id='key' value='1234'>
+            <button onClick="api.init()">Refresh</button>            
+        </div>
+
+        <h3>Select your preference</h3>
+        <ul id='suggestions'></ul>
+        
+        <h3>Preferences</h3>
+        <ol id='rank'></ol>
+
+        <pre id='respons'></pre>
+
+        <script src="jquery-3.2.1.min.js"></script>
+        <script src="api.js" /></script>
+        <script src="events.js" /></script>
+    </body>
+</html>

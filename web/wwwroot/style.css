@@ -1,0 +1,67 @@
+body::after {
+    content: "";
+    background: url(img/bag.png) no-repeat center;
+    opacity: 0.1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
+
+#suggestions {
+    margin: auto;
+    text-align: center;
+}
+#suggestions li {
+    margin-bottom: 1em;
+    list-style: none;
+}
+#suggestions li button {
+    padding: 1em;
+}
+#suggestions li b {
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+    line-height: 200px;
+    font-size: 40px;
+    padding: 0 1em;
+}
+#suggestions li img {
+    width: 200px;
+    height: 200px;
+}
+#suggestions li span {
+    display: none;
+}
+
+#rank {
+    counter-reset: section;
+}
+#rank li {
+    display: inline-block;
+    padding: 1em;
+}
+#rank li::before {
+    counter-increment: section;
+    content: counter(section);
+    width: 30px;
+    display: block;
+    float: left;
+    font-weight: bold;
+    line-height: 100px;
+    height: 100px;
+}
+#rank li img {
+    width: 100px;
+    height: 100px;
+}
+#rank li span {
+    display: none;
+}
+
+#settings {
+    margin-bottom: 20px;
+}
